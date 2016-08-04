@@ -1,0 +1,36 @@
+_repo: Dr.-Breen-s-Practice_3364
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: "Dr. Breen’s Practice is a novel, one of the earlier works by American\
+  \ author and literary critic William Dean Howells. Houghton Mifflin originally published\
+  \ the novel in 1881 in both Boston and New York. Howells wrote in the realist style,\
+  \ creating a faithful representation of the commonplace, and in this case describing\
+  \ everyday mannerisms that embody the daily lives of middle-class people.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3364'
+  wikidata: Q17002120
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Women physicians -- Fiction'
+- GITenberg
+title: Dr. Breen's Practice
+url: http://www.gutenberg.org/ebooks/3364
+wikipedia:
+- https://en.wikipedia.org/wiki/Dr._Breen%27s_Practice
