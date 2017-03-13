@@ -1,5 +1,8 @@
 _repo: Dr.-Breen-s-Practice_3364
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -17,6 +20,8 @@ description: "Dr. Breen’s Practice is a novel, one of the earlier works by Ame
   \ creating a faithful representation of the commonplace, and in this case describing\
   \ everyday mannerisms that embody the daily lives of middle-class people.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3364#Dr.-Breen-s-Practice
 gutenberg_issued: '2004-10-24'
 gutenberg_type: Text
 identifiers:
